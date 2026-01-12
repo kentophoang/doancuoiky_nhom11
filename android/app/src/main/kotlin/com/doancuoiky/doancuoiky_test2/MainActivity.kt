@@ -1,0 +1,5 @@
+package com.doancuoiky.doancuoiky_test2
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
